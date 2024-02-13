@@ -48,3 +48,21 @@ curl "https://api.crossref.org/works?sample=10&select=DOI,title"
 [Info on components](https://github.com/CrossRef/rest-api-doc#resource-components-and-identifiers)
 
 More documentation on https://github.com/CrossRef/rest-api-doc#crossref-rest-api
+
+The following search are good and the python script are not satisfactory.
+
+
+```zsh
+ curl "https://api.crossref.org/works?query.author=Geoffrey+Bodenhausen&rows=1000" | json_pp -json_opt pretty,canonical>data/bodenhausen_all.json
+ python3 data/filter.py bodenhausen_all.json zenodo
+ python3 find.py data/bodenhausen_all.json zenodo
+
+```
+
+
+for javascript version a html file is also produced
+install with 
+```zsh
+npm install yargs
+node src/filter.js --file_path data/bodenhausen_all.json --keyword zenodo```
+```

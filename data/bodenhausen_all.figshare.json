@@ -1,0 +1,172 @@
+{
+  "message": {
+    "items": [
+      {
+        "DOI": "10.26434/chemrxiv.12477449",
+        "URL": "http://dx.doi.org/10.26434/chemrxiv.12477449",
+        "abstract": "<jats:p>The &lt;sup&gt;17&lt;/sup&gt;O resonances of Zirconium-oxo clusters\nthat can be found in porous Zr carboxylate metal-organic frameworks (MOFs) have\nbeen investigated by magic-angle spinning (MAS) NMR spectroscopy enhanced by\ndynamic nuclear polarization (DNP). High-resolution &lt;sup&gt;17&lt;/sup&gt;O spectra at 0.037\n% natural abundance could be obtained in 48 hours, thanks to DNP enhancement of\nthe &lt;sup&gt;1&lt;/sup&gt;H polarization by factors e(&lt;sup&gt;1&lt;/sup&gt;H) = S&lt;sub&gt;with&lt;/sub&gt;/S&lt;sub&gt;without\n&lt;/sub&gt;= 28, followed by &lt;sup&gt;1&lt;/sup&gt;H®&lt;sup&gt;17&lt;/sup&gt;O cross-polarization, allowing a\nsaving in experimental time by a factor of &lt;i&gt;ca&lt;/i&gt;.\n800. The\ndistinct &lt;sup&gt;17&lt;/sup&gt;O sites from the oxo-clusters can be resolved at 18.8 T.\nTheir assignment is supported by density functional theory (DFT) calculations\nof chemical shifts and quadrupolar parameters.</jats:p>",
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Carnevale",
+            "given": "Diego",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Mouchaham",
+            "given": "Georges",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Wang",
+            "given": "Sujing",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Baudin",
+            "given": "Mathieu",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Serre",
+            "given": "Christian",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Bodenhausen",
+            "given": "Geoffrey",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Abergel",
+            "given": "Daniel",
+            "sequence": "first"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              16
+            ]
+          ],
+          "date-time": "2020-06-16T06:23:14Z",
+          "timestamp": 1592288594000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              18
+            ]
+          ],
+          "date-time": "2021-11-18T00:46:56Z",
+          "timestamp": 1637196416000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              7
+            ]
+          ],
+          "date-time": "2024-02-07T21:41:34Z",
+          "timestamp": 1707342094718
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              16
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  6,
+                  16
+                ]
+              ],
+              "date-time": "2020-06-16T00:00:00Z",
+              "timestamp": 1592265600000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://ndownloader.figshare.com/files/23116229",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "316",
+        "posted": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              16
+            ]
+          ]
+        },
+        "prefix": "10.26434",
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              16
+            ]
+          ]
+        },
+        "publisher": "American Chemical Society (ACS)",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-preprint-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.1039/D0CP06064J",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "resource": {
+          "primary": {
+            "URL": "https://chemrxiv.org/articles/preprint/Natural_Abundance_Oxygen-17_Solid-State_NMR_of_Metal_Organic_Frameworks_Enhanced_by_Dynamic_Nuclear_Polarization/12477449"
+          }
+        },
+        "score": 15.31912,
+        "source": "Crossref",
+        "subtype": "preprint",
+        "title": [
+          "Natural Abundance Oxygen-17 Solid-State NMR of Metal Organic Frameworks Enhanced by Dynamic Nuclear Polarization"
+        ],
+        "type": "posted-content"
+      }
+    ]
+  }
+}

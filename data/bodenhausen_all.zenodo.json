@@ -1,0 +1,1460 @@
+{
+  "message": {
+    "items": [
+      {
+        "DOI": "10.5194/mr-2022-23",
+        "URL": "http://dx.doi.org/10.5194/mr-2022-23",
+        "abstract": "<jats:p>Abstract. Long-lived states (LLS) have lifetimes TLLS that can be much longer than longitudinal relaxation times T1. In molecules containing several geminal pairs of protons in neighbouring CH2 groups, it has been shown that delocalized long-lived states can be excited by converting magnetization into imbalances between the populations of singlet and triplet states of each pair. Since the yield of conversion of observable magnetization into LLS and back are on the order of 10 % or less if one uses spin-locked induced crossing (SLIC), it would be desirable to boost the sensitivity by dissolution dynamic nuclear polarization (d-DNP). To enhance the magnetization of nuclear spins by d-DNP, the analytes must be mixed with radicals such as 4-hydroxy-2,2,6,6-tetramethylpiperidin-1-oxyl (TEMPOL) prior to freezing at low temperatures in the vicinity of 1 K. After dissolution, these radicals lead to an undesirable paramagnetic relaxation enhancement (PRE) which shortens not only the longitudinal relaxation times T1 but also the lifetimes TLLS of long-lived states. It is confirmed in this work that PRE by TEMPOL is less deleterious for LLS than for longitudinal magnetization for four different molecules: 2,2-dimethyl-2-silapentane-5-sulfonate (DSS), homotaurine, taurine, and acetylcholine. The relaxivities (i.e., the slopes of relaxation rates as a function of the radical concentration) of LLS rLLS are 3 to 5 times smaller than the relaxivities of longitudinal magnetization r1. Partial delocalization of the LLS across neighbouring CH2 groups may decrease this advantage, but in practice, this effect was observed to be minor when comparing taurine containing two CH2 groups and homotaurine with three CH2 groups. Regardless of whether the LLS are delocalized or not, it is shown that PRE should not be a major problem for experiments combining d DNP and LLS, provided the concentration of paramagnetic species after dissolution does not exceed 1 mM, a condition that is readily fulfilled in typical d-DNP experiments. In bullet d-DNP experiments, however, it may be necessary to reduce TEMPOL by adding ascorbate or using lower concentrations of TEMPOL.\n                        </jats:p>",
+        "author": [
+          {
+            "ORCID": "http://orcid.org/0000-0003-4520-7315",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Razanahoera",
+            "given": "Aiky",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Sonnefeld",
+            "given": "Anna",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0001-8633-6098",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Bodenhausen",
+            "given": "Geoffrey",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0002-3520-6258",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Sheberstov",
+            "given": "Kirill",
+            "sequence": "additional"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              14
+            ]
+          ],
+          "date-time": "2022-12-14T07:00:30Z",
+          "timestamp": 1671001230000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              16
+            ]
+          ],
+          "date-time": "2023-02-16T07:32:00Z",
+          "timestamp": 1676532720000
+        },
+        "funder": [
+          {
+            "DOI": "10.13039/100019180",
+            "award": [
+              "951459"
+            ],
+            "doi-asserted-by": "publisher",
+            "name": "HORIZON EUROPE European Research Council"
+          }
+        ],
+        "group-title": "Liquid-state NMR/(Bio)Chemistry",
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              7
+            ]
+          ],
+          "date-time": "2024-02-07T13:21:39Z",
+          "timestamp": 1707312099026
+        },
+        "is-referenced-by-count": 1,
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              14
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "https://creativecommons.org/licenses/by/4.0/",
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  12,
+                  14
+                ]
+              ],
+              "date-time": "2022-12-14T00:00:00Z",
+              "timestamp": 1670976000000
+            }
+          }
+        ],
+        "member": "3145",
+        "posted": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              14
+            ]
+          ]
+        },
+        "prefix": "10.5194",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              14
+            ]
+          ]
+        },
+        "publisher": "Copernicus GmbH",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "has-comment": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-AC1",
+              "id-type": "doi"
+            }
+          ],
+          "has-review": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-RC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-RC2",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-RC3",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-EC1",
+              "id-type": "doi"
+            }
+          ],
+          "is-part-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5281/zenodo.7432635",
+              "id-type": "doi"
+            }
+          ],
+          "is-preprint-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-4-47-2023",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.5194/mr-4-47-2023",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "resource": {
+          "primary": {
+            "URL": "https://mr.copernicus.org/preprints/mr-2022-23/mr-2022-23.pdf"
+          }
+        },
+        "score": 19.425209,
+        "source": "Crossref",
+        "subtype": "preprint",
+        "title": [
+          "Paramagnetic relaxivity of delocalized long-lived states of protons in chains of CH<sub>2</sub> groups"
+        ],
+        "type": "posted-content"
+      },
+      {
+        "DOI": "10.5194/mr-4-47-2023",
+        "ISSN": [
+          "2699-0016"
+        ],
+        "URL": "http://dx.doi.org/10.5194/mr-4-47-2023",
+        "abstract": "<jats:p>Abstract. Long-lived states (LLSs) have lifetimes TLLS that can\nbe much longer than longitudinal relaxation times T1. In molecules\ncontaining several geminal pairs of protons in neighboring CH2 groups,\nit has been shown that delocalized LLSs can be excited by converting magnetization into\nimbalances between the populations of singlet and triplet states of each\npair. Since the empirical yield of the conversion and reconversion of\nobservable magnetization into LLSs and back is on the order of 10 % if one\nuses spin-lock induced crossing (SLIC), it would be desirable to boost the\nsensitivity by dissolution dynamic nuclear polarization (d-DNP). To enhance\nthe magnetization of nuclear spins by d-DNP, the analytes must be mixed with\nradicals such as 4-hydroxy-2,2,6,6-tetramethylpiperidin-1-oxyl (TEMPOL).\nAfter dissolution, these radicals lead to an undesirable paramagnetic\nrelaxation enhancement (PRE) which shortens not only the longitudinal\nrelaxation times T1 but also the lifetimes TLLS of LLSs. It is\nshown in this work that PRE by TEMPOL is less deleterious for LLSs than for\nlongitudinal magnetization for four different molecules:\n2,2-dimethyl-2-silapentane-5-sulfonate (DSS), homotaurine, taurine, and\nacetylcholine. The relaxivities rLLS (i.e., the slopes of the relaxation\nrate constants RLLS as a function of the radical concentration) are 3 to\n5 times smaller than the relaxivities r1 of longitudinal\nmagnetization. Partial delocalization of the LLSs across neighboring\nCH2 groups may decrease this advantage, but in practice, this effect\nwas observed to be small, for example, when comparing taurine containing two\nCH2 groups and homotaurine with three CH2 groups. Regardless of\nwhether the LLSs are delocalized or not, it is shown that PRE should not be a\nmajor problem for experiments combining d-DNP and LLSs, provided the\nconcentration of paramagnetic species after dissolution does not exceed 1 mM, a condition that is readily fulfilled in typical d-DNP experiments. In\nbullet d-DNP experiments however, it may be necessary to decrease the\nconcentration of TEMPOL or to add ascorbate for chemical reduction.\n                    </jats:p>",
+        "author": [
+          {
+            "ORCID": "http://orcid.org/0000-0003-4520-7315",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Razanahoera",
+            "given": "Aiky",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [],
+            "family": "Sonnefeld",
+            "given": "Anna",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0001-8633-6098",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Bodenhausen",
+            "given": "Geoffrey",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0002-3520-6258",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Sheberstov",
+            "given": "Kirill",
+            "sequence": "additional"
+          }
+        ],
+        "container-title": [
+          "Magnetic Resonance"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              16
+            ]
+          ],
+          "date-time": "2023-02-16T07:32:08Z",
+          "timestamp": 1676532728000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              16
+            ]
+          ],
+          "date-time": "2023-02-16T07:32:44Z",
+          "timestamp": 1676532764000
+        },
+        "funder": [
+          {
+            "DOI": "10.13039/100019180",
+            "award": [
+              "951459"
+            ],
+            "doi-asserted-by": "publisher",
+            "name": "HORIZON EUROPE European Research Council"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              7
+            ]
+          ],
+          "date-time": "2024-02-07T02:28:37Z",
+          "timestamp": 1707272917217
+        },
+        "is-referenced-by-count": 1,
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "2699-0016"
+          }
+        ],
+        "issue": "1",
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              16
+            ]
+          ]
+        },
+        "journal-issue": {
+          "issue": "1",
+          "published-online": {
+            "date-parts": [
+              [
+                2023
+              ]
+            ]
+          }
+        },
+        "language": "en",
+        "license": [
+          {
+            "URL": "https://creativecommons.org/licenses/by/4.0/",
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  2,
+                  16
+                ]
+              ],
+              "date-time": "2023-02-16T00:00:00Z",
+              "timestamp": 1676505600000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "https://mr.copernicus.org/articles/4/47/2023/mr-4-47-2023.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "3145",
+        "page": "47-56",
+        "prefix": "10.5194",
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              16
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              16
+            ]
+          ]
+        },
+        "publisher": "Copernicus GmbH",
+        "reference": [
+          {
+            "DOI": "10.1073/pnas.1733835100",
+            "doi-asserted-by": "crossref",
+            "key": "ref1",
+            "unstructured": "Ardenkjær-Larsen, J. H., Fridlund, B., Gram, A., Hansson, G., Hansson,\nL., Lerche, M. H., Servin, R., Thaning, M., and Golman, K.: Increase in\nsignal-to-noise ratio of &amp;gt; 10,000 times in liquid-state NMR,\nP. Natl. Acad. Sci. USA, 100, 10158–10163, https://doi.org/10.1073/pnas.1733835100, 2003."
+          },
+          {
+            "DOI": "10.1002/mrc.4642",
+            "doi-asserted-by": "crossref",
+            "key": "ref2",
+            "unstructured": "Bengs, C. and Levitt, M. H.: SpinDynamica: Symbolic and numerical magnetic\nresonance in a Mathematica environment, Magn. Reson. Chem., 56, 374–414,\nhttps://doi.org/10.1002/mrc.4642, 2018."
+          },
+          {
+            "DOI": "10.1063/1.442480",
+            "doi-asserted-by": "crossref",
+            "key": "ref3",
+            "unstructured": "Borah, B. and Bryant, R. G.: NMR relaxation dispersion in an aqueous\nnitroxide system, J. Chem. Phys., 75, 3297–3300,\nhttps://doi.org/10.1063/1.442480, 1981."
+          },
+          {
+            "DOI": "10.1002/chem.201404967",
+            "doi-asserted-by": "crossref",
+            "key": "ref4",
+            "unstructured": "Bornet, A., Ji, X., Mammoli, D., Vuichoud, B., Milani, J., Bodenhausen, G.,\nand Jannin, S.: Long-Lived States of Magnetically Equivalent Spins Populated\nby Dissolution-DNP and Revealed by Enzymatic Reactions, Eur. J. Chem., 20,\n17113–17118, https://doi.org/10.1002/chem.201404967, 2014."
+          },
+          {
+            "DOI": "10.1002/cmdc.201402214",
+            "doi-asserted-by": "crossref",
+            "key": "ref5",
+            "unstructured": "Buratto, R., Bornet, A., Milani, J., Mammoli, D., Vuichoud, B., Salvi, N.,\nSingh, M., Laguerre, A., Passemard, S., Gerber-Lemaire, S., Jannin, S., and\nBodenhausen, G.: Drug Screening Boosted by Hyperpolarized Long-Lived States\nin NMR, ChemMedChem, 9, 2509–2515, https://doi.org/10.1002/cmdc.201402214,\n2014a."
+          },
+          {
+            "DOI": "10.1002/anie.201404921",
+            "doi-asserted-by": "crossref",
+            "key": "ref6",
+            "unstructured": "Buratto, R., Mammoli, D., Chiarparin, E., Williams, G., and Bodenhausen, G.:\nExploring Weak Ligand–Protein Interactions by Long-Lived NMR States:\nImproved Contrast in Fragment-Based Drug Screening, Angew. Chem. Int. Edit.,\n53, 11376–11380, https://doi.org/10.1002/anie.201404921, 2014b."
+          },
+          {
+            "DOI": "10.1021/acs.jmedchem.5b01583",
+            "doi-asserted-by": "crossref",
+            "key": "ref7",
+            "unstructured": "Buratto, R., Mammoli, D., Canet, E., and Bodenhausen, G.: Ligand–Protein\nAffinity Studies Using Long-Lived States of Fluorine-19 Nuclei, J. Med.\nChem., 59, 1960–1966, https://doi.org/10.1021/acs.jmedchem.5b01583, 2016."
+          },
+          {
+            "DOI": "10.1021/ja0490931",
+            "doi-asserted-by": "crossref",
+            "key": "ref8",
+            "unstructured": "Carravetta, M. and Levitt, M. H.: Long-Lived Nuclear Spin States in\nHigh-Field Solution NMR, J. Am. Chem. Soc., 126, 6228–6229,\nhttps://doi.org/10.1021/ja0490931, 2004."
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.92.153003",
+            "doi-asserted-by": "crossref",
+            "key": "ref9",
+            "unstructured": "Carravetta, M., Johannessen, O. G., and Levitt, M. H.: Beyond the T1 Limit:\nSinglet Nuclear Spin States in Low Magnetic Fields, Phys. Rev. Lett., 92,\n153003, https://doi.org/10.1103/PhysRevLett.92.153003, 2004."
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.111.173002",
+            "doi-asserted-by": "crossref",
+            "key": "ref10",
+            "unstructured": "DeVience, S. J., Walsworth, R. L., and Rosen, M. S.: Preparation of Nuclear\nSpin Singlet States Using Spin-Lock Induced Crossing, Phys. Rev. Lett., 111,\n173002, https://doi.org/10.1103/PhysRevLett.111.173002, 2013."
+          },
+          {
+            "DOI": "10.1073/pnas.1314928110",
+            "doi-asserted-by": "crossref",
+            "key": "ref11",
+            "unstructured": "Eichhorn, T. R., Takado, Y., Salameh, N., Capozzi, A., Cheng, T., Hyacinthe,\nJ.-N., Mishkovsky, M., Roussel, C., and Comment, A.: Hyperpolarization\nwithout persistent radicals for in vivo real-time metabolic imaging, P. Natl. Acad. Sci. USA,\n110, 18064–18069, https://doi.org/10.1073/pnas.1314928110, 2013."
+          },
+          {
+            "DOI": "10.1038/s41467-021-24279-2",
+            "doi-asserted-by": "crossref",
+            "key": "ref12",
+            "unstructured": "El Daraï, T., Cousin, S. F., Stern, Q., Ceillier, M., Kempf, J.,\nEshchenko, D., Melzi, R., Schnell, M., Gremillard, L., Bornet, A., Milani,\nJ., Vuichoud, B., Cala, O., Montarnal, D., and Jannin, S.: Porous\nfunctionalized polymers enable generating and transporting hyperpolarized\nmixtures of metabolites, Nat. Commun., 12, 4695,\nhttps://doi.org/10.1038/s41467-021-24279-2, 2021."
+          },
+          {
+            "DOI": "10.1080/00268976.2018.1543906",
+            "doi-asserted-by": "crossref",
+            "key": "ref13",
+            "unstructured": "Elliott, S. J., Kadeøávek, P., Brown, L. J., Sabba, M., Glöggler,\nS., O'Leary, D. J., Brown, R. C. D., Ferrage, F., and Levitt, M. H.:\nField-cycling long-lived-state NMR of 15N2 spin pairs, Mol. Phys., 117,\n861–867, https://doi.org/10.1080/00268976.2018.1543906, 2019."
+          },
+          {
+            "DOI": "10.1039/C9RA03748A",
+            "doi-asserted-by": "crossref",
+            "key": "ref14",
+            "unstructured": "Erriah, B. and Elliott, S. J.: Experimental evidence for the role of\nparamagnetic oxygen concentration on the decay of long-lived nuclear spin\norder, RSC Adv., 9, 23418–23424, https://doi.org/10.1039/C9RA03748A, 2019."
+          },
+          {
+            "DOI": "10.1021/ja404936p",
+            "doi-asserted-by": "crossref",
+            "key": "ref15",
+            "unstructured": "Feng, Y., Theis, T., Liang, X., Wang, Q., Zhou, P., and Warren, W. S.:\nStorage of Hydrogen Spin Polarization in Long-Lived 13C2 Singlet Order and\nImplications for Hyperpolarized Magnetic Resonance Imaging, J. Am. Chem.\nSoc., 135, 9632–9635, https://doi.org/10.1021/ja404936p, 2013."
+          },
+          {
+            "DOI": "10.1021/ja304285s",
+            "doi-asserted-by": "crossref",
+            "key": "ref16",
+            "unstructured": "Franzoni, M. B., Buljubasich, L., Spiess, H. W., and Münnemann, K.:\nLong-Lived 1H Singlet Spin States Originating from Para-Hydrogen in\nCs-Symmetric Molecules Stored for Minutes in High Magnetic Fields, J. Am.\nChem. Soc., 134, 10393–10396, https://doi.org/10.1021/ja304285s, 2012."
+          },
+          {
+            "DOI": "10.1073/pnas.1407730111",
+            "doi-asserted-by": "crossref",
+            "key": "ref17",
+            "unstructured": "Gajan, D., Bornet, A., Vuichoud, B., Milani, J., Melzi, R., van Kalkeren, H.\nA., Veyre, L., Thieuleux, C., Conley, M. P., Grüning, W. R.,\nSchwarzwälder, M., Lesage, A., Copéret, C., Bodenhausen, G., Emsley,\nL., and Jannin, S.: Hybrid polarizing solids for pure hyperpolarized liquids\nthrough dissolution dynamic nuclear polarization, P. Natl. Acad. Sci. USA, 111, 14693–14697,\nhttps://doi.org/10.1073/pnas.1407730111, 2014."
+          },
+          {
+            "DOI": "10.1016/j.jmr.2011.06.001",
+            "doi-asserted-by": "crossref",
+            "key": "ref18",
+            "unstructured": "Hogben, H. J., Hore, P. J., and Kuprov, I.: Multiple decoherence-free states\nin multi-spin systems, J. Magn. Reson., 211, 217–220,\nhttps://doi.org/10.1016/j.jmr.2011.06.001, 2011."
+          },
+          {
+            "DOI": "10.1038/ncomms13975",
+            "doi-asserted-by": "crossref",
+            "key": "ref19",
+            "unstructured": "Ji, X., Bornet, A., Vuichoud, B., Milani, J., Gajan, D., Rossini, A. J.,\nEmsley, L., Bodenhausen, G., and Jannin, S.: Transportable hyperpolarized\nmetabolites, Nat. Commun., 8, 13975, https://doi.org/10.1038/ncomms13975,\n2017."
+          },
+          {
+            "DOI": "10.1039/D1CP05537B",
+            "doi-asserted-by": "crossref",
+            "key": "ref20",
+            "unstructured": "Kharkov, B., Duan, X., Rantaharju, J., Sabba, M., Levitt, M. H., Canary, J.\nW., and Jerschow, A.: Weak nuclear spin singlet relaxation mechanisms\nrevealed by experiment and computation, Phys. Chem. Chem. Phys., 24,\n7531–7538, https://doi.org/10.1039/D1CP05537B, 2022."
+          },
+          {
+            "DOI": "10.1021/acs.analchem.6b03382",
+            "doi-asserted-by": "crossref",
+            "key": "ref21",
+            "unstructured": "Kim, Y., Liu, M., and Hilty, C.: Parallelized Ligand Screening Using\nDissolution Dynamic Nuclear Polarization, Anal. Chem., 88, 11178–11183,\nhttps://doi.org/10.1021/acs.analchem.6b03382, 2016."
+          },
+          {
+            "DOI": "10.1039/C9CP02600B",
+            "doi-asserted-by": "crossref",
+            "key": "ref22",
+            "unstructured": "Kiryutin, A. S., Rodin, B. A., Yurkovskaya, A. V., Ivanov, K. L., Kurzbach,\nD., Jannin, S., Guarin, D., Abergel, D., and Bodenhausen, G.: Transport of\nhyperpolarized samples in dissolution-DNP experiments, Phys. Chem. Chem.\nPhys., 21, 13696–13705, https://doi.org/10.1039/C9CP02600B, 2019."
+          },
+          {
+            "DOI": "10.1038/s41467-019-09726-5",
+            "doi-asserted-by": "crossref",
+            "key": "ref23",
+            "unstructured": "Kouøil, K., Kouøilová, H., Bartram, S., Levitt, M. H., and Meier,\nB.: Scalable dissolution-dynamic nuclear polarization with rapid transfer of\na polarized solid, Nat. Commun., 10, 1733,\nhttps://doi.org/10.1038/s41467-019-09726-5, 2019."
+          },
+          {
+            "DOI": "10.1021/acs.jpclett.9b00149",
+            "doi-asserted-by": "crossref",
+            "key": "ref24",
+            "unstructured": "Kress, T., Walrant, A., Bodenhausen, G., and Kurzbach, D.: Long-Lived States\nin Hyperpolarized Deuterated Methyl Groups Reveal Weak Binding of Small\nMolecules to Proteins, J. Phys. Chem. Lett., 10, 1523–1529,\nhttps://doi.org/10.1021/acs.jpclett.9b00149, 2019."
+          },
+          {
+            "DOI": "10.1021/ja308437h",
+            "doi-asserted-by": "crossref",
+            "key": "ref25",
+            "unstructured": "Lee, Y., Zeng, H., Ruedisser, S., Gossert, A. D., and Hilty, C.: Nuclear\nMagnetic Resonance of Hyperpolarized Fluorine for Characterization of\nProtein–Ligand Interactions, J. Am. Chem. Soc., 134, 17448–17451,\nhttps://doi.org/10.1021/ja308437h, 2012."
+          },
+          {
+            "DOI": "10.1002/anie.201000934",
+            "doi-asserted-by": "crossref",
+            "key": "ref26",
+            "unstructured": "Miéville, P., Ahuja, P., Sarkar, R., Jannin, S., Vasos, P. R.,\nGerber-Lemaire, S., Mishkovsky, M., Comment, A., Gruetter, R., Ouari, O.,\nTordo, P., and Bodenhausen, G.: Scavenging Free Radicals To Preserve\nEnhancement and Extend Relaxation Times in NMR using Dynamic Nuclear\nPolarization, Angew. Chem. Int. Edit., 49, 6182–6185,\nhttps://doi.org/10.1002/anie.201000934, 2010."
+          },
+          {
+            "DOI": "10.1016/j.jmr.2011.02.006",
+            "doi-asserted-by": "crossref",
+            "key": "ref27",
+            "unstructured": "Miéville, P., Jannin, S., and Bodenhausen, G.: Relaxometry of\ninsensitive nuclei: Optimizing dissolution dynamic nuclear polarization, J.\nMagn. Reson., 210, 137–140, https://doi.org/10.1016/j.jmr.2011.02.006,\n2011."
+          },
+          {
+            "DOI": "10.1021/jacs.2c07960",
+            "doi-asserted-by": "crossref",
+            "key": "ref28",
+            "unstructured": "Negroni, M., Turhan, E., Kress, T., Ceillier, M., Jannin, S., and Kurzbach,\nD.: Frémy's Salt as a Low-Persistence Hyperpolarization Agent: Efficient\nDynamic Nuclear Polarization Plus Rapid Radical Scavenging, J. Am. Chem.\nSoc., 144, 20680–20686, https://doi.org/10.1021/jacs.2c07960, 2022."
+          },
+          {
+            "DOI": "10.1126/scitranslmed.3006070",
+            "doi-asserted-by": "crossref",
+            "key": "ref29",
+            "unstructured": "Nelson, S. J., Kurhanewicz, J., Vigneron, D. B., Larson, P. E. Z.,\nHarzstark, A. L., Ferrone, M., van Criekinge, M., Chang, J. W., Bok, R.,\nPark, I., Reed, G., Carvajal, L., Small, E. J., Munster, P., Weinberg, V.\nK., Ardenkjaer-Larsen, J. H., Chen, A. P., Hurd, R. E., Odegardstuen, L.-I.,\nRobb, F. J., Tropp, J., and Murray, J. A.: Metabolic Imaging of Patients\nwith Prostate Cancer Using Hyperpolarized [1-13C]Pyruvate, Sci. Transl.\nMed., 5, 198ra108, https://doi.org/10.1126/scitranslmed.3006070, 2013."
+          },
+          {
+            "DOI": "10.1021/ja3089873",
+            "doi-asserted-by": "crossref",
+            "key": "ref30",
+            "unstructured": "Pileio, G., Hill-Cousins, J. T., Mitchell, S., Kuprov, I., Brown, L. J.,\nBrown, R. C. D., and Levitt, M. H.: Long-Lived Nuclear Singlet Order in\nNear-Equivalent 13C Spin Pairs, J. Am. Chem. Soc., 134, 17494–17497,\nhttps://doi.org/10.1021/ja3089873, 2012."
+          },
+          {
+            "DOI": "10.5194/mr-2022-23",
+            "doi-asserted-by": "crossref",
+            "key": "ref31",
+            "unstructured": "Razanahoera, A., Sonnefeld, A., Bodenhausen, G., and Sheberstov, K.: Paramagnetic relaxivity of delocalized long-lived states of protons in chains of CH2 groups, Zenodo [data set], https://doi.org/10.5281/zenodo.7432635, 2022."
+          },
+          {
+            "DOI": "10.1021/ja303301w",
+            "doi-asserted-by": "crossref",
+            "key": "ref32",
+            "unstructured": "Salvi, N., Buratto, R., Bornet, A., Ulzega, S., Rentero Rebollo, I.,\nAngelini, A., Heinis, C., and Bodenhausen, G.: Boosting the Sensitivity of\nLigand–Protein Screening by NMR of Long-Lived States, J. Am. Chem. Soc.,\n134, 11076–11079, https://doi.org/10.1021/ja303301w, 2012."
+          },
+          {
+            "DOI": "10.1021/ja0647396",
+            "doi-asserted-by": "crossref",
+            "key": "ref33",
+            "unstructured": "Sarkar, R., Vasos, P. R., and Bodenhausen, G.: Singlet-State Exchange NMR\nSpectroscopy for the Study of Very Slow Dynamic Processes, J. Am. Chem.\nSoc., 129, 328–334, https://doi.org/10.1021/ja0647396, 2007."
+          },
+          {
+            "DOI": "10.1038/s41598-019-56734-y",
+            "doi-asserted-by": "crossref",
+            "key": "ref34",
+            "unstructured": "Sheberstov, K. F., Vieth, H.-M., Zimmermann, H., Rodin, B. A., Ivanov, K.\nL., Kiryutin, A. S., and Yurkovskaya, A. V.: Generating and sustaining\nlong-lived spin states in 15N, 15N'-azobenzene, Sci. Rep., 9, 20161, https://doi.org/10.1038/s41598-019-56734-y, 2019."
+          },
+          {
+            "DOI": "10.1126/sciadv.ade2113",
+            "doi-asserted-by": "crossref",
+            "key": "ref35",
+            "unstructured": "Sonnefeld, A., Razanahoera, A., Pelupessy, P., Bodenhausen, G., and\nSheberstov, K.: Long-lived states of methylene protons in achiral molecules,\nSci. Adv., 8, eade2113, https://doi.org/10.1126/sciadv.ade2113, 2022a."
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.129.183203",
+            "doi-asserted-by": "crossref",
+            "key": "ref36",
+            "unstructured": "Sonnefeld, A., Bodenhausen, G., and Sheberstov, K.: Polychromatic Excitation\nof Delocalized Long-Lived Proton Spin States in Aliphatic Chains, Phys. Rev.\nLett., 129, 183203, https://doi.org/10.1103/PhysRevLett.129.183203, 2022b."
+          },
+          {
+            "DOI": "10.1002/anie.201411978",
+            "doi-asserted-by": "crossref",
+            "key": "ref37",
+            "unstructured": "Stevanato, G., Hill-Cousins, J. T., Håkansson, P., Roy, S. S., Brown, L.\nJ., Brown, R. C. D., Pileio, G., and Levitt, M. H.: A Nuclear Singlet\nLifetime of More than One Hour in Room-Temperature Solution, Angew. Chem.\nInt. Edit., 54, 3740–3743, https://doi.org/10.1002/anie.201411978, 2015."
+          },
+          {
+            "DOI": "10.1039/9781788019972-00188",
+            "doi-asserted-by": "crossref",
+            "key": "ref38",
+            "unstructured": "Tayler, M. C. D.: Chapter 10: Filters for Long-lived Spin Order, in:\nLong-lived Nuclear Spin Order, edited by: Pileio, G., RSC publishing, 188–208,\nhttps://books.rsc.org/books/edited-volume/850/chapter-abstract/599446/Filters-for-Long-lived-Spin-Order?redirectedFrom=fulltext (last access: 14 February 2023), 2020."
+          },
+          {
+            "DOI": "10.1039/c1cp20471h",
+            "doi-asserted-by": "crossref",
+            "key": "ref39",
+            "unstructured": "Tayler, M. C. D. and Levitt, M. H.: Paramagnetic relaxation of nuclear\nsinglet states, Phys. Chem. Chem. Phys., 13, 9128–9130,\nhttps://doi.org/10.1039/C1CP20471H, 2011."
+          },
+          {
+            "DOI": "10.1021/ja312227h",
+            "doi-asserted-by": "crossref",
+            "key": "ref40",
+            "unstructured": "Tayler, M. C. D. and Levitt, M. H.: Accessing Long-Lived Nuclear Spin Order\nby Isotope-Induced Symmetry Breaking, J. Am. Chem. Soc., 135, 2120–2123,\nhttps://doi.org/10.1021/ja312227h, 2013."
+          },
+          {
+            "DOI": "10.1021/ja302814e",
+            "doi-asserted-by": "crossref",
+            "key": "ref41",
+            "unstructured": "Tayler, M. C. D., Marco-Rius, I., Kettunen, M. I., Brindle, K. M., Levitt,\nM. H., and Pileio, G.: Direct Enhancement of Nuclear Singlet Order by\nDynamic Nuclear Polarization, J. Am. Chem. Soc., 134, 7668–7671,\nhttps://doi.org/10.1021/ja302814e, 2012."
+          },
+          {
+            "DOI": "10.1080/00268977800101601",
+            "doi-asserted-by": "crossref",
+            "key": "ref42",
+            "unstructured": "Wokaun, A. and Ernst, R. R.: The use of multiple quantum transitions for\nrelaxation studies in coupled spin systems, Mol. Phys., 36, 317–341,\nhttps://doi.org/10.1080/00268977800101601, 1978."
+          }
+        ],
+        "reference-count": 42,
+        "references-count": 42,
+        "relation": {
+          "has-preprint": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23",
+              "id-type": "doi"
+            }
+          ],
+          "has-review": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-RC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-RC2",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-RC3",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-AC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "subject",
+              "id": "10.5194/mr-2022-23-EC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.5194/mr-2022-23-RC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.5194/mr-2022-23-AC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.5194/mr-2022-23-RC3",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.5194/mr-2022-23-EC1",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.5194/mr-2022-23-RC2",
+              "id-type": "doi"
+            }
+          ],
+          "is-part-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.5281/zenodo.7432635",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "resource": {
+          "primary": {
+            "URL": "https://mr.copernicus.org/articles/4/47/2023/"
+          }
+        },
+        "score": 19.425209,
+        "short-container-title": [
+          "Magn. Reson."
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Atomic and Molecular Physics, and Optics",
+          "Condensed Matter Physics",
+          "Analytical Chemistry"
+        ],
+        "title": [
+          "Paramagnetic relaxivity of delocalized long-lived states of protons in chains of CH<sub>2</sub> groups"
+        ],
+        "type": "journal-article",
+        "volume": "4"
+      },
+      {
+        "DOI": "10.1039/d3cp00453h",
+        "ISSN": [
+          "1463-9076",
+          "1463-9084"
+        ],
+        "URL": "http://dx.doi.org/10.1039/d3cp00453h",
+        "abstract": "<jats:p>DNP cross-talk experiments in the thermal mixing regime provide energy transfer rates between the different reservoirs. The dependence of the kinetic parameters on the radical concentration and H/D ratio sheds light onto the nature of “hidden” spins.</jats:p>",
+        "author": [
+          {
+            "ORCID": "http://orcid.org/0000-0002-5504-759X",
+            "affiliation": [
+              {
+                "name": "Département de chimie, Laboratoire des biomolécules, LBM, Ecole normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France"
+              },
+              {
+                "name": "International Tomography Center, Siberian Branch of the Russian Academy of Science, Novosibirsk 630090, Russia"
+              },
+              {
+                "name": "Physics Department, Novosibirsk State University, Novosibirsk, 630090, Russia"
+              }
+            ],
+            "authenticated-orcid": false,
+            "family": "Rodin",
+            "given": "Bogdan A.",
+            "sequence": "first"
+          },
+          {
+            "affiliation": [
+              {
+                "name": "Département de chimie, Laboratoire des biomolécules, LBM, Ecole normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France"
+              }
+            ],
+            "family": "Thalakottoor",
+            "given": "Vineeth",
+            "sequence": "additional"
+          },
+          {
+            "affiliation": [
+              {
+                "name": "Département de chimie, Laboratoire des biomolécules, LBM, Ecole normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France"
+              },
+              {
+                "name": "Laboratoire de Chimie et Biochimie Pharmacologiques et Toxicologiques Université Paris Cité 145, Rue des Saints Pères 75006, Paris, France"
+              }
+            ],
+            "family": "Baudin",
+            "given": "Mathieu",
+            "sequence": "additional"
+          },
+          {
+            "affiliation": [
+              {
+                "name": "Département de chimie, Laboratoire des biomolécules, LBM, Ecole normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France"
+              }
+            ],
+            "family": "Birilirakis",
+            "given": "Nicolas",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0001-8633-6098",
+            "affiliation": [
+              {
+                "name": "Département de chimie, Laboratoire des biomolécules, LBM, Ecole normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France"
+              }
+            ],
+            "authenticated-orcid": false,
+            "family": "Bodenhausen",
+            "given": "Geoffrey",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0002-2465-838X",
+            "affiliation": [
+              {
+                "name": "International Tomography Center, Siberian Branch of the Russian Academy of Science, Novosibirsk 630090, Russia"
+              },
+              {
+                "name": "Physics Department, Novosibirsk State University, Novosibirsk, 630090, Russia"
+              }
+            ],
+            "authenticated-orcid": false,
+            "family": "Yurkovskaya",
+            "given": "Alexandra V.",
+            "sequence": "additional"
+          },
+          {
+            "ORCID": "http://orcid.org/0000-0002-8019-3484",
+            "affiliation": [
+              {
+                "name": "Département de chimie, Laboratoire des biomolécules, LBM, Ecole normale supérieure, PSL University, Sorbonne Université, CNRS, 75005 Paris, France"
+              }
+            ],
+            "authenticated-orcid": false,
+            "family": "Abergel",
+            "given": "Daniel",
+            "sequence": "additional"
+          }
+        ],
+        "container-title": [
+          "Physical Chemistry Chemical Physics"
+        ],
+        "content-domain": {
+          "crossmark-restriction": true,
+          "domain": [
+            "rsc.org"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2023-04-13T13:42:12Z",
+          "timestamp": 1681393332000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              31
+            ]
+          ],
+          "date-time": "2023-05-31T13:38:27Z",
+          "timestamp": 1685540307000
+        },
+        "funder": [
+          {
+            "DOI": "10.13039/501100001665",
+            "award": [
+              "Grant ANR-22-CE29-0006-01 (DynNonlinPol)"
+            ],
+            "doi-asserted-by": "publisher",
+            "name": "Agence Nationale de la Recherche"
+          },
+          {
+            "DOI": "10.13039/501100003443",
+            "award": [
+              "075-15-2021-580"
+            ],
+            "doi-asserted-by": "publisher",
+            "name": "Ministry of Education and Science of the Russian Federation"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2023-07-13T08:16:57Z",
+          "timestamp": 1689236217334
+        },
+        "is-referenced-by-count": 2,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1463-9076"
+          },
+          {
+            "type": "electronic",
+            "value": "1463-9084"
+          }
+        ],
+        "issue": "21",
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "journal-issue": {
+          "issue": "21",
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                5,
+                31
+              ]
+            ]
+          }
+        },
+        "language": "en",
+        "license": [
+          {
+            "URL": "http://rsc.li/journals-terms-of-use",
+            "content-version": "am",
+            "delay-in-days": 468,
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  4,
+                  13
+                ]
+              ],
+              "date-time": "2024-04-13T00:00:00Z",
+              "timestamp": 1712966400000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://pubs.rsc.org/en/content/articlepdf/2023/CP/D3CP00453H",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "292",
+        "page": "15040-15051",
+        "prefix": "10.1039",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "published-online": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "publisher": "Royal Society of Chemistry (RSC)",
+        "reference": [
+          {
+            "DOI": "10.1103/PhysRevLett.71.3561",
+            "author": "Becerra",
+            "doi-asserted-by": "crossref",
+            "first-page": "3561",
+            "journal-title": "Phys. Rev. Lett.",
+            "key": "D3CP00453H/cit1/1",
+            "volume": "71",
+            "year": "1993"
+          },
+          {
+            "DOI": "10.1073/pnas.1733835100",
+            "author": "Ardenkjær-Larsen",
+            "doi-asserted-by": "crossref",
+            "first-page": "10158",
+            "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+            "key": "D3CP00453H/cit2/1",
+            "volume": "100",
+            "year": "2003"
+          },
+          {
+            "DOI": "10.1103/PhysRev.138.A1785",
+            "author": "Schmugge",
+            "doi-asserted-by": "crossref",
+            "first-page": "A1785",
+            "journal-title": "Phys. Rev.",
+            "key": "D3CP00453H/cit3/1",
+            "volume": "138",
+            "year": "1965"
+          },
+          {
+            "author": "Borghini",
+            "first-page": "1803",
+            "journal-title": "C. R. Acad. Sci., Ser. Gen. Vie Sci.",
+            "key": "D3CP00453H/cit4/1",
+            "volume": "248",
+            "year": "1959"
+          },
+          {
+            "DOI": "10.1103/PhysRev.122.1781",
+            "author": "Leifson",
+            "doi-asserted-by": "crossref",
+            "first-page": "1781",
+            "journal-title": "Phys. Rev.",
+            "key": "D3CP00453H/cit5/1",
+            "volume": "122",
+            "year": "1961"
+          },
+          {
+            "DOI": "10.1088/0034-4885/41/3/002",
+            "author": "Abragam",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "journal-title": "Rep. Prog. Phys.",
+            "key": "D3CP00453H/cit6/1",
+            "volume": "41",
+            "year": "1978"
+          },
+          {
+            "DOI": "10.1016/0079-6565(85)80005-4",
+            "author": "Wind",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "journal-title": "Prog. Nucl. Magn. Reson. Spectrosc.",
+            "key": "D3CP00453H/cit7/1",
+            "volume": "17",
+            "year": "1985"
+          },
+          {
+            "author": "Kessenikh",
+            "first-page": "1640",
+            "journal-title": "Fiz. Tverd. Tela",
+            "key": "D3CP00453H/cit8/1",
+            "volume": "5",
+            "year": "1963"
+          },
+          {
+            "author": "Kessenikh",
+            "first-page": "641",
+            "journal-title": "Phys. Solid State",
+            "key": "D3CP00453H/cit9/1",
+            "volume": "5",
+            "year": "1963"
+          },
+          {
+            "author": "Kessenikh",
+            "first-page": "321",
+            "journal-title": "Phys. Solid State",
+            "key": "D3CP00453H/cit10/1",
+            "volume": "6",
+            "year": "1964"
+          },
+          {
+            "author": "Kessenikh",
+            "first-page": "827",
+            "journal-title": "Fiz. Tverd. Tela",
+            "key": "D3CP00453H/cit11/1",
+            "volume": "6",
+            "year": "1964"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.19.1011",
+            "author": "Hwang",
+            "doi-asserted-by": "crossref",
+            "first-page": "1011",
+            "journal-title": "Phys. Rev. Lett.",
+            "key": "D3CP00453H/cit12/1",
+            "volume": "19",
+            "year": "1967"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.18.110",
+            "author": "Hwang",
+            "doi-asserted-by": "crossref",
+            "first-page": "110",
+            "journal-title": "Phys. Rev. Lett.",
+            "key": "D3CP00453H/cit13/1",
+            "volume": "18",
+            "year": "1967"
+          },
+          {
+            "author": "Wollan",
+            "first-page": "3671",
+            "journal-title": "Phys. Rev. Lett.",
+            "key": "D3CP00453H/cit14/1",
+            "volume": "13",
+            "year": "1976"
+          },
+          {
+            "author": "Wenckebach",
+            "key": "D3CP00453H/cit15/1",
+            "unstructured": "T.Wenckebach ,  Essentials of Dynamic Nuclear Polarization ,  Spindrift Publications ,  The Netherlands ,  2016",
+            "volume-title": "Essentials of Dynamic Nuclear Polarization",
+            "year": "2016"
+          },
+          {
+            "DOI": "10.1021/acs.jpclett.8b03615",
+            "author": "Kundu",
+            "doi-asserted-by": "crossref",
+            "first-page": "1769",
+            "journal-title": "J. Phys. Chem. Lett.",
+            "key": "D3CP00453H/cit16/1",
+            "volume": "10",
+            "year": "2019"
+          },
+          {
+            "DOI": "10.1103/PhysRev.92.411",
+            "author": "Overhauser",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "journal-title": "Phys. Rev.",
+            "key": "D3CP00453H/cit17/1",
+            "volume": "92",
+            "year": "1953"
+          },
+          {
+            "DOI": "10.1103/PhysRev.102.975",
+            "author": "Carver",
+            "doi-asserted-by": "crossref",
+            "first-page": "975",
+            "journal-title": "Phys. Rev.",
+            "key": "D3CP00453H/cit18/1",
+            "volume": "102",
+            "year": "1956"
+          },
+          {
+            "DOI": "10.1103/PhysRev.92.212.2",
+            "author": "Carver",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "journal-title": "Phys. Rev.",
+            "key": "D3CP00453H/cit19/1",
+            "volume": "92",
+            "year": "1953"
+          },
+          {
+            "author": "Kozhushner",
+            "first-page": "136",
+            "journal-title": "JETP",
+            "key": "D3CP00453H/cit20/1",
+            "volume": "29",
+            "year": "1969"
+          },
+          {
+            "author": "Buishvili",
+            "first-page": "1868",
+            "journal-title": "ZhETF",
+            "key": "D3CP00453H/cit21/1",
+            "volume": "49",
+            "year": "1965"
+          },
+          {
+            "author": "Buishvili",
+            "first-page": "1277",
+            "journal-title": "Sov. Phys. JETP",
+            "key": "D3CP00453H/cit22/1",
+            "volume": "22",
+            "year": "1966"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.20.419",
+            "author": "Borghini",
+            "doi-asserted-by": "crossref",
+            "first-page": "419",
+            "journal-title": "Phys. Rev. Lett.",
+            "key": "D3CP00453H/cit23/1",
+            "volume": "20",
+            "year": "1968"
+          },
+          {
+            "DOI": "10.1021/acs.jpclett.7b02233",
+            "author": "Guarin",
+            "doi-asserted-by": "crossref",
+            "first-page": "5531",
+            "journal-title": "J. Phys. Chem. Lett.",
+            "key": "D3CP00453H/cit24/1",
+            "volume": "8",
+            "year": "2017"
+          },
+          {
+            "author": "Provotorov",
+            "first-page": "1126",
+            "journal-title": "Sov. phys. JETP",
+            "key": "D3CP00453H/cit25/1",
+            "volume": "14",
+            "year": "1962"
+          },
+          {
+            "author": "Provotorov",
+            "first-page": "611",
+            "journal-title": "Sov. phys. JETP",
+            "key": "D3CP00453H/cit26/1",
+            "volume": "15",
+            "year": "1962"
+          },
+          {
+            "DOI": "10.1088/0022-3719/6/5/006",
+            "author": "Cox",
+            "doi-asserted-by": "crossref",
+            "first-page": "L100",
+            "journal-title": "J. Phys. C-Solid State Phys.",
+            "key": "D3CP00453H/cit27/1",
+            "volume": "6",
+            "year": "1973"
+          },
+          {
+            "DOI": "10.1088/0022-3719/7/16/021",
+            "author": "Goldman",
+            "doi-asserted-by": "crossref",
+            "first-page": "2940",
+            "journal-title": "J. Phys. C-Solid State Phys.",
+            "key": "D3CP00453H/cit28/1",
+            "volume": "7",
+            "year": "1974"
+          },
+          {
+            "DOI": "10.1103/PhysRevA.18.671",
+            "author": "Bösiger",
+            "doi-asserted-by": "crossref",
+            "first-page": "671",
+            "journal-title": "Phys. Rev. A",
+            "key": "D3CP00453H/cit29/1",
+            "volume": "18",
+            "year": "1978"
+          },
+          {
+            "DOI": "10.1016/j.jmr.2019.04.012",
+            "author": "Jähnig",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "journal-title": "J. Magn. Reson.",
+            "key": "D3CP00453H/cit30/1",
+            "volume": "303",
+            "year": "2019"
+          },
+          {
+            "DOI": "10.1126/sciadv.abf5735",
+            "author": "Stern",
+            "doi-asserted-by": "crossref",
+            "first-page": "eabf5735",
+            "journal-title": "Sci. Adv.",
+            "key": "D3CP00453H/cit31/1",
+            "volume": "7",
+            "year": "2021"
+          },
+          {
+            "author": "Abragam",
+            "key": "D3CP00453H/cit32/1",
+            "unstructured": "A.Abragam ,  Principles of Nuclear Magnetism ,  Clarendon Press ,  Oxford ,  1983",
+            "volume-title": "Principles of Nuclear Magnetism",
+            "year": "1983"
+          },
+          {
+            "author": "Goldman",
+            "key": "D3CP00453H/cit33/1",
+            "unstructured": "M.Goldman ,  Spin Temperature and Nuclear Magnetic Resonance in Solids ,  Clarendon Press ,  1970",
+            "volume-title": "Spin Temperature and Nuclear Magnetic Resonance in Solids",
+            "year": "1970"
+          },
+          {
+            "author": "Pathria",
+            "key": "D3CP00453H/cit34/1",
+            "unstructured": "R. K.Pathria  and  P. D.Beale ,  Statistical Mechanics ,  Academic Press ,  London San Diego Cambridge, MA Oxford , 4th edn,  2021",
+            "volume-title": "Statistical Mechanics",
+            "year": "2021"
+          },
+          {
+            "DOI": "10.1021/acs.jpclett.0c00713",
+            "author": "Aghelnejad",
+            "doi-asserted-by": "crossref",
+            "first-page": "3219",
+            "journal-title": "J. Phys. Chem. Lett.",
+            "key": "D3CP00453H/cit35/1",
+            "volume": "11",
+            "year": "2020"
+          },
+          {
+            "author": "Levitt",
+            "key": "D3CP00453H/cit36/1",
+            "unstructured": "M. H.Levitt ,  Spin Dynamics: Basics of Nuclear Magnetic Resonance ,  Wiley ,  Chichester, England; Hoboken, NJ , 2nd edn,  2008",
+            "volume-title": "Spin Dynamics: Basics of Nuclear Magnetic Resonance",
+            "year": "2008"
+          },
+          {
+            "DOI": "10.1016/j.pnmrs.2021.04.002",
+            "author": "Elliott",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "journal-title": "Prog. Nucl. Magn. Reson. Spectrosc.",
+            "key": "D3CP00453H/cit37/1",
+            "volume": "126–127",
+            "year": "2021"
+          },
+          {
+            "DOI": "10.1002/mrc.4642",
+            "author": "Bengs",
+            "doi-asserted-by": "crossref",
+            "first-page": "374",
+            "journal-title": "Magn. Reson. Chem.",
+            "key": "D3CP00453H/cit38/1",
+            "volume": "56",
+            "year": "2018"
+          },
+          {
+            "author": "Newville",
+            "key": "D3CP00453H/cit39/1",
+            "unstructured": "M.Newville ,  T.Stensitzki ,  D. B.Allen  and  A.Ingargiola , LMFIT: Non-Linear Least-Square Minimization and Curve-Fitting for Python, Zenodo, 2014"
+          },
+          {
+            "DOI": "10.1023/A:1008202821328",
+            "author": "Storn",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "journal-title": "J. Glob. Optim.",
+            "key": "D3CP00453H/cit40/1",
+            "volume": "11",
+            "year": "1997"
+          },
+          {
+            "author": "Rodin",
+            "key": "D3CP00453H/cit41/1",
+            "unstructured": "B. A.Rodin , Cross Talk Data and Fitting Procedure, 2022,  https://github.com/phagost/cross_talk_fit"
+          },
+          {
+            "DOI": "10.1103/PhysRev.119.79",
+            "author": "Blumberg",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "journal-title": "Phys. Rev.",
+            "key": "D3CP00453H/cit42/1",
+            "volume": "119",
+            "year": "1960"
+          },
+          {
+            "author": "Khutsishvili",
+            "first-page": "1311",
+            "journal-title": "Sov. phys. JETP",
+            "key": "D3CP00453H/cit43/1",
+            "volume": "42",
+            "year": "1962"
+          },
+          {
+            "DOI": "10.1016/j.jmr.2010.10.016",
+            "author": "Hovav",
+            "doi-asserted-by": "crossref",
+            "first-page": "176",
+            "journal-title": "J. Magn. Reson.",
+            "key": "D3CP00453H/cit44/1",
+            "volume": "207",
+            "year": "2010"
+          },
+          {
+            "DOI": "10.1063/1.3526486",
+            "author": "Hovav",
+            "doi-asserted-by": "crossref",
+            "first-page": "074509",
+            "journal-title": "J. Chem. Phys.",
+            "key": "D3CP00453H/cit45/1",
+            "volume": "134",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1126/sciadv.aax2743",
+            "author": "Tan",
+            "doi-asserted-by": "crossref",
+            "first-page": "eaax2743",
+            "journal-title": "Sci. Adv.",
+            "key": "D3CP00453H/cit46/1",
+            "volume": "5",
+            "year": "2019"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.31.907",
+            "author": "Wolfe",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "journal-title": "Phys. Rev. Lett.",
+            "key": "D3CP00453H/cit47/1",
+            "volume": "31",
+            "year": "1973"
+          },
+          {
+            "author": "Atsarkin",
+            "first-page": "1118",
+            "journal-title": "Zh. Eksp. Teor. Fiz.",
+            "key": "D3CP00453H/cit48/1",
+            "volume": "72",
+            "year": "1977"
+          },
+          {
+            "DOI": "10.1039/c3cp50186h",
+            "author": "Lumata",
+            "doi-asserted-by": "crossref",
+            "first-page": "9800",
+            "journal-title": "Phys. Chem. Chem. Phys.",
+            "key": "D3CP00453H/cit49/1",
+            "volume": "15",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1039/C6CP05587G",
+            "author": "Bornet",
+            "doi-asserted-by": "crossref",
+            "first-page": "30530",
+            "journal-title": "Phys. Chem. Chem. Phys.",
+            "key": "D3CP00453H/cit50/1",
+            "volume": "18",
+            "year": "2016"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.74.134418",
+            "author": "Heckmann",
+            "doi-asserted-by": "crossref",
+            "first-page": "134418",
+            "journal-title": "Phys. Rev. B: Condens. Matter Mater. Phys.",
+            "key": "D3CP00453H/cit51/1",
+            "volume": "74",
+            "year": "2006"
+          },
+          {
+            "DOI": "10.1021/acs.jpclett.2c02357",
+            "author": "Jurkutat",
+            "doi-asserted-by": "crossref",
+            "first-page": "10370",
+            "journal-title": "J. Phys. Chem. Lett.",
+            "key": "D3CP00453H/cit52/1",
+            "year": "2022"
+          },
+          {
+            "DOI": "10.48550/arXiv.2206.14771",
+            "author": "Chessari",
+            "doi-asserted-by": "publisher",
+            "key": "D3CP00453H/cit53/1",
+            "unstructured": "A.Chessari ,  S. F.Cousin ,  S.Jannin  and  Q.Stern ,  The role of electron polarization on nuclear spin diffusion ,  arXiv , 2022, preprint, arXiv:2206.14771 10.48550/arXiv.2206.14771"
+          },
+          {
+            "DOI": "10.1016/j.jmr.2007.05.011",
+            "author": "Granwehr",
+            "doi-asserted-by": "crossref",
+            "first-page": "266",
+            "journal-title": "J. Magn. Reson.",
+            "key": "D3CP00453H/cit54/1",
+            "volume": "187",
+            "year": "2007"
+          }
+        ],
+        "reference-count": 54,
+        "references-count": 54,
+        "resource": {
+          "primary": {
+            "URL": "http://xlink.rsc.org/?DOI=D3CP00453H"
+          }
+        },
+        "score": 14.141409,
+        "short-container-title": [
+          "Phys. Chem. Chem. Phys."
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Physical and Theoretical Chemistry",
+          "General Physics and Astronomy"
+        ],
+        "title": [
+          "Quantitative analysis of cross-talk in partly deuterated samples of nuclear spins hyperpolarized by dynamic nuclear polarization (DNP) in the thermal mixing regime"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1039/rsc_crossmark_policy",
+        "volume": "25"
+      }
+    ]
+  }
+}
